@@ -33,6 +33,7 @@ date(printDate);
 
 // npm init
 // npm run callback
+// npm run promise
 
 // https://rickandmortyapi.com/
 
