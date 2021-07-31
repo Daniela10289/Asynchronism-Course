@@ -1,4 +1,9 @@
 // funcionamiento del callback
+// callback es universal es decir que corre en cualquier navegador
+// ya sea viejo o moderno
+
+// desventaja la sintaxis por ser repetitiva o tener riesgo de 
+// convertirse en callback help
 function sum(num1, num2) {
     return num1 + num2;
 }
